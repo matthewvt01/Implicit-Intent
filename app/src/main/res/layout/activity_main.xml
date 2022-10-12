@@ -12,7 +12,7 @@
         android:id="@+id/et_url"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="https//www.google.com"
+        android:hint="https://www.google.com"
         android:inputType="text"
         />
     <Button
